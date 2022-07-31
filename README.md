@@ -166,6 +166,10 @@ mygauge{le="0.05"} 100
 
 :postbox: _Easy and Fun, isn't it?_ Go ahead, update your metrics from any server/service and scrape away! 
 
+:warning: _This guide is intended as an example - let's go crazy adding precise timestamping, output formats and anything else!_
+
+<br />
+
 ### Bonus Steps
 
 Going to use your URL engine store daily? Extend the schema and setup a URL Engine table for quicker access:
@@ -187,8 +191,6 @@ INSERT INTO default.prometheus_exporter VALUES ('mygauge', 100, 'my little metri
 ```
 
 ----
-
-:warning: _This guide is intended as an example - go crazy adding precise timestamping, output formats and anything else!_
 
 <img src="https://user-images.githubusercontent.com/1423657/181306495-1c6172f2-ade8-4db5-9393-bddc60d132b8.png" width=500 />
 
