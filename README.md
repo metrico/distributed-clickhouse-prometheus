@@ -168,7 +168,7 @@ mygauge{le="0.05"} 100
 
 :postbox: _Easy and Fun, isn't it?_ Go ahead, update your metrics from any server/service and scrape away! 
 
-:warning: _This guide is intended as an example - let's go crazy adding precise timestamping, output formats and anything else!_
+:warning: _This guide is intended as a firestarter - go crazy adding timestamping, output formats and anything else!_
 
 <br />
 
