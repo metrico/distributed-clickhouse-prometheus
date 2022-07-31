@@ -190,7 +190,7 @@ INSERT INTO default.prometheus_exporter VALUES ('mygauge', 100, 'my little metri
 
 :warning: _This guide is intended as an example - go crazy adding precise timestamping, output formats and anything else!_
 
-![image](https://user-images.githubusercontent.com/1423657/181306495-1c6172f2-ade8-4db5-9393-bddc60d132b8.png)
+<img src="https://user-images.githubusercontent.com/1423657/181306495-1c6172f2-ade8-4db5-9393-bddc60d132b8.png" width=500 />
 
 
 <!--
