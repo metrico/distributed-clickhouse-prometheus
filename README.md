@@ -5,10 +5,10 @@
 
 Let's build a serverless prometheus metrics store & publisher for ClickHouse using urleng.com
 
-* no coding, no logins - all batteries included! :battery:	
-* available from any clickhouse instance
-* custom HTTP scraping endpoint
-* persistent data courtesy of [deta cloud](https://deta.sh)
+* no coding, no logins - batteries included! :battery:	
+* zero config distributed table, accessible from any server
+* custom HTTP prometheus /metrics scraping endpoint
+* persistent tables courtesy of [deta cloud](https://deta.sh)
 
 <br/>
 
