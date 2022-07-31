@@ -2,7 +2,7 @@
 
 # _"Frugal Metrics"_ 
 
-_Metrics can be lots fun, until you have to easily share them between a bunch of servers... but fear not!_
+_Metrics can be lots fun, until you have to them between a bunch of distributed servers... but fear not!_
 
 <br />
 
