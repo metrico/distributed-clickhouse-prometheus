@@ -171,12 +171,13 @@ mygauge{le="0.05"} 100
 
 :postbox: _Easy and Fun, isn't it?_ Go ahead, update your metrics from any server/service and scrape away! 
 
-:warning: _This guide is intended as a firestarter - go crazy adding timestamping, output formats and anything else!_
-
 <br />
 
 ### Bonus Steps
 
+:warning: _This guide is intended as a firestarter - go crazy adding timestamping, output formats and anything else!_
+
+#### URL Engine Table
 Going to use your URL engine store daily? Extend the schema and setup a URL Engine table for quicker access:
 
 ```sql
