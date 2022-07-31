@@ -1,7 +1,7 @@
 <img src="https://clickhouse.com/docs/images/logo.svg" width=150 />
 
 # _"Frugal Metrics"_ 
-## Distributed timeseries storage with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
+## Distributed timeseries/metrics endpoint with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
 
 Metrics are lots fun, until you have to share them between a bunch of servers... but fear not! 
 
