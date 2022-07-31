@@ -220,3 +220,16 @@ format_template_resultset = '/opt/ch/prom_in.format', format_template_row = '/op
 ```
 
 -->
+
+<br/>
+
+## Disclaimers
+
+#### Terms of Use
+No warranties of any kind, either express or implied. Data can be removed or lost at any moment of time. Use at your own risk.
+#### Security
+This service does not provide any security or privacy. Traffic is secured by Cloudflare and data stored on Deta cloud. Use at your own risk.
+#### Cookies
+This service does not collect, store or use cookies.
+#### Limitations
+Worker execution time limits might crop large INSERT queries
