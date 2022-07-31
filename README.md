@@ -1,9 +1,12 @@
 <img src="https://clickhouse.com/docs/images/logo.svg" width=150 />
 
 # _"Frugal Metrics"_ 
-## Distributed timeseries/metrics endpoint with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
 
-Metrics are lots fun, until you have to share them between a bunch of servers... but fear not! 
+_Metrics can be lots fun, until you have to easily share them between a bunch of servers... but fear not!_
+
+<br />
+
+## Distributed timeseries/metrics endpoint with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
 
 Let's build a serverless prometheus metrics store & publisher for ClickHouse using [urleng.com](https://urleng.com)
 
