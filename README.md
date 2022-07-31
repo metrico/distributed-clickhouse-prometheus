@@ -1,6 +1,7 @@
 <img src="https://clickhouse.com/docs/images/logo.svg" width=150 />
 
-# _"Frugal Metrics"_ with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
+# _"Frugal Metrics"_ 
+### Distributed timeseries storage with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
 
 Let's build a serverless prometheus metrics store & publisher for ClickHouse using urleng.com
 
