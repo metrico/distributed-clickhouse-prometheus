@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server
+    ports:
+      - "8123:8123"
+    volumes:
+      - ./metrics_export.xml:/etc/clickhouse-server/config.d/metrics_export.xml
