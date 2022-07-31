@@ -3,12 +3,14 @@
 # _"Frugal Metrics"_ 
 ## Distributed timeseries storage with [UrlEng](https://urleng.com) + [ClickHouse](https://clickhouse.com/docs)
 
-Let's build a serverless prometheus metrics store & publisher for ClickHouse using urleng.com
+Metrics are lots fun, until you have to share them between a bunch of servers... but fear not! 
 
-* no coding, no logins - batteries included! :battery:	
-* zero config distributed table, accessible from any server
-* custom HTTP prometheus /metrics scraping endpoint
-* persistent tables courtesy of [deta cloud](https://deta.sh)
+Let's build a serverless prometheus metrics store & publisher for ClickHouse using [urleng.com](https://urleng.com)
+
+* no coding, no signups, no logins - batteries included! :battery:	
+* zero config distributed table, simply accessible from anywhere
+* custom HTTP prometheus /metrics scraping endpoint w/ auto-expiration
+* persistent storage courtesy of [deta cloud](https://deta.sh) 
 
 <br/>
 
