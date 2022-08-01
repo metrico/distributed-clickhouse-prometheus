@@ -1,6 +1,6 @@
 <yandex>
    <format_schema_path>/var/lib/clickhouse/format_schemas/</format_schema_path>
-   <custom_urleng>'https://urleng.com/metrixxx</custom_urleng>
+   <custom_urleng>'https://urleng.com/CHANGE_ME_RIGHT_NOW</custom_urleng>
    <http_handlers>
       <rule>
         <url>/metrix</url>
