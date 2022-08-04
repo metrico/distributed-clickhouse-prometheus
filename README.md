@@ -1,4 +1,5 @@
-<img src="https://clickhouse.com/docs/images/logo.svg" width=150 />
+<img src="https://user-images.githubusercontent.com/1423657/182805404-ec8189b7-a5b6-488d-9aac-885b6f3bbb9f.png" width=800 />
+
 
 # _"Frugal Metrics"_ 
 
@@ -197,8 +198,6 @@ INSERT INTO default.prometheus_exporter VALUES ('mygauge', 100, 'my little metri
 ```
 
 ----
-
-![image](https://user-images.githubusercontent.com/1423657/182804646-c45a3394-8254-4f09-9159-b3f05b653c02.png)
 
 
 <!--
