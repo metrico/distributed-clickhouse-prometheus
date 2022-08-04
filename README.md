@@ -145,7 +145,7 @@ Create a [custom handler](https://clickhouse.com/docs/en/interfaces/http#predefi
    <custom_urleng>'https://urleng.com/metrixxx</custom_urleng>
    <http_handlers>
       <rule>
-        <url>/metrix</url>
+        <url>/metrics</url>
         <methods>GET</methods>
         <handler>
             <type>predefined_query_handler</type>
@@ -162,7 +162,7 @@ Create a [custom handler](https://clickhouse.com/docs/en/interfaces/http#predefi
 ## Scrape it and Shake it!
 _Et Voila'!_ Our custom endpoint is ready to be scraped. Let's curl a final test:
 ```bash
-curl 'http://default:password@localhost:8123/metrix'
+curl 'http://default:password@localhost:8123/metrics'
 ```
 ```
 # TYPE mygauge gauge
