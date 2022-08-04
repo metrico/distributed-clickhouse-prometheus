@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/1423657/182805404-ec8189b7-a5b6-488d-9aac-885b6f3bbb9f.png" width=800 />
+<img src="https://user-images.githubusercontent.com/1423657/182806197-3c20e379-8f1c-4113-bbf4-f3940a7a601a.png" width=800 />
 
 
 # _"Frugal Metrics"_ 
