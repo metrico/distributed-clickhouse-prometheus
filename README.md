@@ -198,7 +198,7 @@ INSERT INTO default.prometheus_exporter VALUES ('mygauge', 100, 'my little metri
 
 ----
 
-<img src="https://user-images.githubusercontent.com/1423657/181306495-1c6172f2-ade8-4db5-9393-bddc60d132b8.png" width=500 />
+![image](https://user-images.githubusercontent.com/1423657/182804646-c45a3394-8254-4f09-9159-b3f05b653c02.png)
 
 
 <!--
