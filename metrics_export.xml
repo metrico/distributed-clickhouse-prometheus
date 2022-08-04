@@ -3,7 +3,7 @@
    <custom_urleng>'https://urleng.com/CHANGE_ME_RIGHT_NOW</custom_urleng>
    <http_handlers>
       <rule>
-        <url>/metrix</url>
+        <url>/metrics</url>
         <methods>POST,GET</methods>
         <handler>
             <type>predefined_query_handler</type>
